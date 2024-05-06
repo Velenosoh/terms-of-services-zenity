@@ -16,7 +16,8 @@ Our Discord bot is provided "as is" and we make no express or implied warranties
 # **Data Privacy**: 
 Zenity does not and will never collect private or/and sensitive data derived from Discord without your consent through it. We ask that you respect the privacy of others when using Zenity.
 
-**Changes to Terms**: We reserve the right to change these Terms of Service at any time. Changes will be effective immediately upon posting via our website or support Discord. You automatically accept the new terms by continuing to use Zenity.
+# **Changes to Terms**: 
+We reserve the right to change these Terms of Service at any time. Changes will be effective immediately upon posting via our website or support Discord. You automatically accept the new terms by continuing to use Zenity.
 
 By accepting these Terms of Service, you confirm that you are at least of legal age to accept these Terms and are legally authorized to do so.
 
