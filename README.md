@@ -3,7 +3,7 @@
 Welcome! Thank you for using Zenity. Before using it, please carefully read and accept the following Terms of Service which govern the use of our bot. By using it you automatically accept our terms of service, if you do not accept them please do not use it.
 
 
- 1
+
 **Permitted Use**: Our Discord bot provides specific functionality as described in our documentation. Use of the bot is permitted only for its intended purposes and complies with laws and Discord's ToS. It is therefore prohibited to use it for illegal, harmful or violating Discord policies. We reserve the right to block users or servers who violate these rights with or without the bot.
 
 **Changes to the Bot**: We reserve the right to make changes to our Discord bot, including additions, modifications, or removals of features, without notice. Such changes may be made to improve performance, fix bugs, update existing features, or for other reasons. You agree that such changes may occur at any time and that your continued use of the Bot will constitute your acceptance of such changes. In the event that changes to the bot result in significant or material changes that could affect the user experience or the terms of use, we will do our best to inform users in advance via notifications through the bot itself, our website or other available communication channels. However, we reserve the right to make changes without notice if necessary for security reasons, legal compliance or to address emergency situations.
@@ -12,7 +12,7 @@ Welcome! Thank you for using Zenity. Before using it, please carefully read and 
 
 **Data Privacy**: Zenity does not and will never collect private or/and sensitive data derived from Discord without your consent through it. We ask that you respect the privacy of others when using Zenity.
 
-5. **Changes to Terms**: We reserve the right to change these Terms of Service at any time. Changes will be effective immediately upon posting via our website or support Discord. You automatically accept the new terms by continuing to use Zenity.
+**Changes to Terms**: We reserve the right to change these Terms of Service at any time. Changes will be effective immediately upon posting via our website or support Discord. You automatically accept the new terms by continuing to use Zenity.
 
 By accepting these Terms of Service, you confirm that you are at least of legal age to accept these Terms and are legally authorized to do so.
 
