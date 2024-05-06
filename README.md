@@ -1,21 +1,19 @@
-# terms-of-services-zenity
+# Terms of Services Zenity
 
-Terms Of Services
-
-Benvenuto! Grazie per utilizzare Zenity. Prima di usarlo, ti preghiamo di leggere attentamente e accettare i seguenti Termini di Servizio che regolano l'utilizzo del nostro bot. Utilizzandolo accetti automaticamente i nostri termini di servizio, se non li accetti ti preghiamo di non usarlo.
+Welcome! Thank you for using Zenity. Before using it, please carefully read and accept the following Terms of Service which govern the use of our bot. By using it you automatically accept our terms of service, if you do not accept them please do not use it.
 
 
  1
-**Utilizzo Consentito**: Il nostro bot Discord fornisce funzionalità specifiche come descritto nella nostra documentazione. L'uso del bot è consentito solo per gli scopi previsti e conformi alle leggi e ai ToS di Discord. È dunque vietato usarlo per scopi illegali, dannosi o che violano le politiche di Discord. Ci preserviamo il diritto di bloccare gli utenti o i server che violano tali diritti con o senza il bot.
+**Permitted Use**: Our Discord bot provides specific functionality as described in our documentation. Use of the bot is permitted only for its intended purposes and complies with laws and Discord's ToS. It is therefore prohibited to use it for illegal, harmful or violating Discord policies. We reserve the right to block users or servers who violate these rights with or without the bot.
 
-**Modifiche al Bot**: Ci riserviamo il diritto di apportare modifiche al nostro bot Discord, comprese aggiunte, modifiche o rimozioni di funzionalità, senza preavviso. Tali modifiche potrebbero essere effettuate per migliorare le prestazioni, risolvere bug, aggiornare le funzionalità esistenti o per altri motivi. L'utente accetta che tali modifiche possano avvenire in qualsiasi momento e che l'uso continuato del bot costituirà l'accettazione di tali modifiche. Nel caso in cui le modifiche apportate al bot comportino cambiamenti significativi o sostanziali che potrebbero influenzare l'esperienza dell'utente o i termini di utilizzo, faremo del nostro meglio per informare gli utenti in anticipo tramite notifiche attraverso il bot stesso, il nostro sito web o altri canali di comunicazione disponibili. Tuttavia, ci riserviamo il diritto di apportare modifiche senza preavviso qualora sia necessario per ragioni di sicurezza, conformità legale o per risolvere situazioni di emergenza.
+**Changes to the Bot**: We reserve the right to make changes to our Discord bot, including additions, modifications, or removals of features, without notice. Such changes may be made to improve performance, fix bugs, update existing features, or for other reasons. You agree that such changes may occur at any time and that your continued use of the Bot will constitute your acceptance of such changes. In the event that changes to the bot result in significant or material changes that could affect the user experience or the terms of use, we will do our best to inform users in advance via notifications through the bot itself, our website or other available communication channels. However, we reserve the right to make changes without notice if necessary for security reasons, legal compliance or to address emergency situations.
 
-**Limitazioni di Responsabilità**: Il nostro bot Discord è fornito "così com'è" e non forniamo garanzie esplicite o implicite sulla sua disponibilità, affidabilità o idoneità a uno scopo specifico. Non saremo tenuti responsabili per eventuali danni diretti, indiretti o connessi in qualsiasi modo a Zenity. Includiamo anche la perdita di beni immateriali, dati o altri tipo di informazioni. L'utente utilizza il bot a proprio rischio. Ciò significa che l'utente comprende e accetta che l'utilizzo del nostro bot Discord è a proprio rischio e che noi, i nostri dipendenti, agenti, partner e licenzianti non saremo ritenuti responsabili per qualsiasi danno derivante dall'utilizzo del bot Discord.
+**Limitations of liability**: Our Discord bot is provided "as is" and we make no express or implied warranties as to its availability, reliability, or fitness for a particular purpose. We will not be held liable for any damages direct, indirect or connected in any way to Zenity. We also include loss of intangible property, data or other types of information. The user uses the bot at his own risk. This means that you understand and agree that your use of our Discord Bot is at your own risk and that we, our employees, agents, partners and licensors will not be liable for any damages arising from your use of the Discord Bot.
 
-**Riservatezza dei Dati**: Zenity non raccoglie e non raccoglierà mai dati privati o/e sensibili derivati da Discord senza il tuo consenso attraverso di egli. Preghiamo agli utenti di rispettare la privacy altrui quando si utilizza Zenity. 
+**Data Privacy**: Zenity does not and will never collect private or/and sensitive data derived from Discord without your consent through it. We ask that you respect the privacy of others when using Zenity.
 
-5. **Modifiche ai Termini**: Ci riserviamo il diritto di modificare questi Termini di Servizio in qualsiasi momento. Le modifiche saranno efficaci immediatamente dopo la loro pubblicazione tramite il nostro sito web o il Discord di supporto. Accetti i nuovi termini automaticamente tramite il continuo d’uso di Zenity.
+5. **Changes to Terms**: We reserve the right to change these Terms of Service at any time. Changes will be effective immediately upon posting via our website or support Discord. You automatically accept the new terms by continuing to use Zenity.
 
-Accettando questi Termini di Servizio, confermi di avere almeno l'età legale per accettare tali Termini e di essere legalmente autorizzato a farlo.
+By accepting these Terms of Service, you confirm that you are at least of legal age to accept these Terms and are legally authorized to do so.
 
-Grazie per aver scelto Zenity!
+Thank you for choosing Zenity!
